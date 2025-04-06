@@ -567,5 +567,11 @@ Get and install certificates using interactive prompt
 sudo certbot --nginx
 ```
 
+
+note
+```
+    puttygen key.ppk -O private-openssh -o key.pem
+    ```
+
 ## Authors
 * **Thisara**
